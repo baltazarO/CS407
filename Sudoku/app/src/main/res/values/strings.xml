@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="difficulty">Choose Difficulty</string>
+    <string name="author">Baltazar Ortiz Montejano</string>
+
+    <string-array name="Difficulty">
+        <item>hard</item>
+        <item>medium</item>
+        <item>easy</item>
+    </string-array>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="erase">Erase</string>
+    <string name="seeRules">See Rules</string>
+    <string name="error_toast">Error Message</string>
+    <string name="puzzles">Get Puzzle</string>
+
+    <string name="rules_of_sudoku">The Sudoku Rules\n\nTo win the game you need to fill in the
+        spaces with numbers such that each row and column
+        has only one number copy from 1-9 inclusive. This means a row/column cannot have for
+        example two 2s or two 5s. The board is divided up into 9 sub-boards. Each sub-board is
+        divided up by thick black lines. Similar to the column/row rule, each sub-board can only
+        have one number copy in it. </string>
+</resources>

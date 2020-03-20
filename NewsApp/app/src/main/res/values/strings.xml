@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The Times</string>
+    <string name="example">News App</string>
+    <string name="title">Title Here</string>
+    <string name="authorship">Author</string>
+    <string name="desc">photo of news</string>
+    <string name="error_toast">Error fetching articles</string>
+    <string name="desc_news">image of story</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="fullname">Full Name</string>
+    <string name="back">Home</string>
+    <string name="email">Email Address</string>
+    <string name="signout">Log Out</string>
+    <string name="likes">Likes</string>
+</resources>

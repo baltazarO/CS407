@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baltazar\'s Tip Calculator</string>
+    <string name="txtBillName">Bill Amount</string>
+    <string name="txtTipName">Tip %</string>
+    <string name="txtPeopleName">Num. of People</string>
+    <string name="calc">Calculate Tip</string>
+    <string name="lblTipName">Tip Amount</string>
+    <string name="lblTotalName">Total Amount</string>
+    <string name="lblPeopleName">Amount per Person</string>
+    <string name="bill_hint">Enter bill</string>
+    <string name="tip_hint">Enter percent</string>
+    <string name="people_hint">Enter people</string>
+    <string name="FIELDS_NOT_FILLED">Please fill all fields.</string>
+    <string name="app_author">Baltazar Ortiz Montejano</string>
+</resources>
